@@ -8,7 +8,7 @@ title = "캠핑/아웃도어 추천 가이드"
   isoCode = "ko"
   dateFormat = "2006년 1월 2일"
   description = "캠핑, 아웃도어, 등산용품 추천 가이드"
-  copyright = "© {year} 캠핑/아웃도어 추천 가이드"
+  copyright = "© { year } 캠핑/아웃도어 추천 가이드"
 
 [params.author]
   name = "캠핑/아웃도어 추천 가이드"
