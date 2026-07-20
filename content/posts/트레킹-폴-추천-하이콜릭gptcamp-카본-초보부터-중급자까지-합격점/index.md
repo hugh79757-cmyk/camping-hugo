@@ -39,7 +39,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 하이콜릭 등산스틱 접이식 Full 폴대 — 두랄루민 7075 T6의 내구성
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="하이콜릭 등산스틱 접이식 Full 폴대 두랄루민 7075 T6" caption="하이콜릭 등산스틱 접이식 Full 폴대 두랄루민 7075 T6" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/59681fc183855e4d.webp" alt="하이콜릭 등산스틱 접이식 Full 폴대 두랄루민 7075 T6" caption="하이콜릭 등산스틱 접이식 Full 폴대 두랄루민 7075 T6" >}}
 하이콜릭은 쿠팡 등산스틱 부문 1위를 기록한 제품입니다. 두랄루민 7075 T6 소재를 사용해 일반 두랄루민보다 강도가 20% 이상 높습니다. 민트 색상이 독특해 산에서 눈에 띄고, 접이식 구조 덕분에 수납 길이가 짧아 배낭에 쏙 들어갑니다. 1세트(2개) 구성으로 가격 대비 만족도가 높습니다.
 
 주말마다 가벼운 산행을 즐기는 직장인이라면 내구성 좋은 이 제품이 오래 사용할 수 있는 선택입니다. 로켓배송으로 다음 날 받을 수 있고, 쿠팡 리뷰 평점 4.8점을 기록 중입니다.
@@ -50,7 +50,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: GPTcamp HDC3 카본 초경량 접이식 — 200g의 가벼움
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="GPTcamp HDC3 카본 초경량 접이식 등산 스틱" caption="카본 소재를 채택해 개당 약 200g 수준의 초경량을 실현했습니다. 접이식 방식으로 수납 길이가 짧아 백패킹이나 장거리 트레킹에 이상적입니다. 블랙 색상은 어떤 복장에도 무난하게 어울립니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/0afebf964ccc2779.webp" alt="GPTcamp HDC3 카본 초경량 접이식 등산 스틱" caption="카본 소재를 채택해 개당 약 200g 수준의 초경량을 실현했습니다. 접이식 방식으로 수납 길이가 짧아 백패킹이나 장거리 트레킹에 이상적입니다. 블랙 색상은 어떤 복장에도 무난하게 어울립니다." >}}
 반면 카본 특성상 충격에 약한 편이므로 바위 지형에서 과격하게 사용하기보다는 일반 등산로나 트레킹 코스에 적합합니다. 장거리 산행을 자주 다니는 중급자라면 무게 부담을 크게 덜 수 있습니다. 로켓배송으로 빠르게 받을 수 있고 네이버 최저가 49,560원보다 쿠팡 가격이 합리적입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9129409645&itemId=26861008752&vendorItemId=93830691483&traceid=V0-153-814cdc0cfac0e663&clickBeacon=86604bd0-7e4f-11f1-baf8-d1ff46737270%7E3&requestid=20260713091224630257909094&token=31850C%7CMIXED)
@@ -59,7 +59,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: GPTcamp HD3 듀랄루민 7075 — 3만 원대 로켓배송의 실속파
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="GPTcamp HD3 듀랄루민 7075 초경량 접이식 등산 스틱" caption="3만 원대 가격에 두랄루민 7075 소재와 접이식 방식을 갖춘 제품입니다. 개당 240g 내외로 가벼운 편이고, 블랙 색상으로 심플한 디자인이 특징입니다. HDC3 카본 모델과 동일 브랜드로 소재만 다른 실속형 버전입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/e5cfddc85643ca04.webp" alt="GPTcamp HD3 듀랄루민 7075 초경량 접이식 등산 스틱" caption="3만 원대 가격에 두랄루민 7075 소재와 접이식 방식을 갖춘 제품입니다. 개당 240g 내외로 가벼운 편이고, 블랙 색상으로 심플한 디자인이 특징입니다. HDC3 카본 모델과 동일 브랜드로 소재만 다른 실속형 버전입니다." >}}
 산행 초보자나 간헐적으로 등산을 즐기는 분에게 적합합니다. 가격 부담이 적으면서도 기본 성능은 충실합니다. 로켓배송 덕분에 주문 다음 날 바로 사용할 수 있고, 네이버 최저가 31,770원보다 쿠팡 가격이 약간 높지만 배송 편의성을 감안하면 충분히 납득할 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9129398368&itemId=26860955012&vendorItemId=93830638606&traceid=V0-153-c24c4960f62da004&clickBeacon=866072e0-7e4f-11f1-84d5-88220003b100%7E3&requestid=20260713091224630257909094&token=31850C%7CMIXED)
@@ -68,7 +68,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 블랙야크 두랄루민 등산스틱 1+1 — 커플 산행에 추천
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="블랙야크 두랄루민 등산스틱 1+1" caption="블랙야크 브랜드의 두랄루민 7075 등산스틱이 1+1 구성으로 34,990원에 판매 중입니다. EVA 손잡이는 땀에 강하고 그립감이 좋습니다. 밝은 노란색은 산에서 시인성이 좋아 안전에도 도움이 됩니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/5ad76cf6b33929a3.webp" alt="블랙야크 두랄루민 등산스틱 1+1" caption="블랙야크 브랜드의 두랄루민 7075 등산스틱이 1+1 구성으로 34,990원에 판매 중입니다. EVA 손잡이는 땀에 강하고 그립감이 좋습니다. 밝은 노란색은 산에서 시인성이 좋아 안전에도 도움이 됩니다." >}}
 파트너와 함께 산행을 즐기는 커플이나 가족 단위 등산객에게 제격입니다. 다만 무료배송이지만 로켓배송은 아니라 배송이 2~3일 정도 소요될 수 있습니다. 쿠팡 순위 2위로 인기 제품임을 알 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9549103751&itemId=28489978397&vendorItemId=95439982666&traceid=V0-153-60671e8fce34e67a&clickBeacon=86cd1760-7e4f-11f1-af9e-90f6c1a4dc46%7E3&requestid=20260713091225361316531720&token=31850C%7CMIXED)
@@ -77,7 +77,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: 폴텐 초경량 접이식 폴대 — 2만 원대 가성비 최강
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="폴텐 초경량 접이식 폴대 두랄루민 등산스틱" caption="2만 원대 가격에 2세트(4개)를 제공하는 파격적인 제품입니다. 두랄루민 소재의 접이식 폴대로 기본적인 등산스틱 기능을 모두 갖췄습니다. 그레이 색상은 무난하고 세련된 느낌을 줍니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4f29db2302183279.webp" alt="폴텐 초경량 접이식 폴대 두랄루민 등산스틱" caption="2만 원대 가격에 2세트(4개)를 제공하는 파격적인 제품입니다. 두랄루민 소재의 접이식 폴대로 기본적인 등산스틱 기능을 모두 갖췄습니다. 그레이 색상은 무난하고 세련된 느낌을 줍니다." >}}
 예산이 빠듯한 대학생이나 첫 등산스틱을 구매하는 입문자에게 적합합니다. 다만 브랜드 인지도가 낮고 로켓배송이 아니라 배송 기간이 다소 길 수 있습니다. 하지만 가격 대비 4개를 준다는 점에서 단체 산행이나 여분용으로 활용하기 좋습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9260047690&itemId=27397401933&vendorItemId=94363132889&traceid=V0-153-2046ecc23fb06f24&clickBeacon=866072e0-7e4f-11f1-a0b7-6769da119071%7E3&requestid=20260713091224630257909094&token=31850C%7CMIXED)

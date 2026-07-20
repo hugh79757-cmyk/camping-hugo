@@ -39,7 +39,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: BLACK K7 충전식 LED 캠핑 랜턴 — 가격 대비 합격점
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="BLACK K7 충전식 LED 캠핑 랜턴" caption="BLACK K7 충전식 LED 캠핑 랜턴" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/06ee9d8939372d48.webp" alt="BLACK K7 충전식 LED 캠핑 랜턴" caption="BLACK K7 충전식 LED 캠핑 랜턴" >}}
 가장 먼저 눈에 띄는 것은 35,400원이라는 실속형 가격입니다. 3600mAh 배터리는 1박 2일 캠핑에서 넉넉하게 사용할 수 있는 용량이며, 접이식 구조로 수납 공간을 최소화했습니다. 손전등 기능이 있어 텐트 주변을 비추거나 산책 시에도 활용도가 높습니다. 방수 기능이 있어 갑작스러운 비에도 일부 대비할 수 있습니다.
 
 <strong>장점</strong>: 가격 대비 배터리와 접이식 설계가 돋보입니다.  
@@ -53,7 +53,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: LUMAX LED 아웃도어 캠핑 랜턴 LC-100K — 기본에 충실한 국민 랜턴
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="LUMAX LED 아웃도어 캠핑 랜턴" caption="루맥스는 캠핑 랜턴 시장에서 오랜 기간 사랑받아 온 브랜드입니다. LC-100K 모델은 심플한 디자인과 적절한 밝기로 초보 캠퍼부터 베테랑까지 두루 사용하기 좋습니다. 36,130원으로 가격도 부담 없고, 쿠팡 랜턴 카테고리 1위를 기록할 만큼 인기가 높습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/dbbd31c0c4616ac3.webp" alt="LUMAX LED 아웃도어 캠핑 랜턴" caption="루맥스는 캠핑 랜턴 시장에서 오랜 기간 사랑받아 온 브랜드입니다. LC-100K 모델은 심플한 디자인과 적절한 밝기로 초보 캠퍼부터 베테랑까지 두루 사용하기 좋습니다. 36,130원으로 가격도 부담 없고, 쿠팡 랜턴 카테고리 1위를 기록할 만큼 인기가 높습니다." >}}
 <strong>장점</strong>: 브랜드 신뢰도와 안정적인 밝기.  
 <strong>아쉬운 점</strong>: 보조배터리 기능이나 선풍기 같은 부가 기능이 없어 순수 조명용으로만 쓸 수 있습니다.
 
@@ -65,7 +65,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: COUCAMP 캠핑 용품 스탠드 선풍기 써큘레이터 랜턴 보조배터리 20000 — 올인원 멀티툴
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="COUCAMP 캠핑 용품 스탠드 선풍기 써큘레이터 랜턴 보조배터리" caption="COUCAMP 캠핑 용품 스탠드 선풍기 써큘레이터 랜턴 보조배터리" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/72323f28a7db9b11.webp" alt="COUCAMP 캠핑 용품 스탠드 선풍기 써큘레이터 랜턴 보조배터리" caption="COUCAMP 캠핑 용품 스탠드 선풍기 써큘레이터 랜턴 보조배터리" >}}
 이 제품 하나면 선풍기, 써큘레이터, 랜턴, 보조배터리까지 네 가지 역할을 해냅니다. 특히 20000mAh 대용량 배터리는 스마트폰을 여러 번 충전할 수 있어 전자기기가 많은 캠핑에 안성맞춤입니다. 스탠드 형태로 바닥에 세워 두거나 테이블 위에 올려 사용할 수 있습니다.
 
 <strong>장점</strong>: 멀티 기능으로 짐을 줄일 수 있고, 보조배터리 용량이 커서 비상용으로도 훌륭합니다.  
@@ -79,7 +79,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 골제로 캠핑 백패킹 조명 — 초경량 미니멀리스트의 선택
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="골제로 캠핑 백패킹 조명" caption="골제로는 해외 백패킹 커뮤니티에서도 인정받는 브랜드로, 이 조명은 극한의 경량화에 초점을 맞췄습니다. 손바닥보다 작은 크기로 배낭 어디에나 쏙 들어가며, 밝기는 일반 캠핑에 충분한 수준입니다. 디자인도 심플해서 인테리어 소품으로도 손색이 없습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/c37b16a97c12c0de.webp" alt="골제로 캠핑 백패킹 조명" caption="골제로는 해외 백패킹 커뮤니티에서도 인정받는 브랜드로, 이 조명은 극한의 경량화에 초점을 맞췄습니다. 손바닥보다 작은 크기로 배낭 어디에나 쏙 들어가며, 밝기는 일반 캠핑에 충분한 수준입니다. 디자인도 심플해서 인테리어 소품으로도 손색이 없습니다." >}}
 <strong>장점</strong>: 무게와 부피가 매우 작아 백패킹에 최적화되었습니다.  
 <strong>아쉬운 점</strong>: 배터리 용량이 작아 장시간 사용 시 추가 배터리가 필요할 수 있습니다.
 
@@ -91,7 +91,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: 트랜스폼 온루미 캠핑 랜턴 조명 LED 작업등 — 작업등 겸용 고성능
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="트랜스폼 온루미 캠핑 랜턴" caption="트랜스폼 온루미 캠핑 랜턴" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/87fd47c6277bd79d.webp" alt="트랜스폼 온루미 캠핑 랜턴" caption="트랜스폼 온루미 캠핑 랜턴" >}}
 79,610원으로 이번 비교에서 가장 비싸지만, 그만큼 높은 밝기와 견고한 내구성을 자랑합니다. 낚시 작업등으로도 사용할 수 있어 야간 작업이나 넓은 공간을 환하게 비춰야 할 때 위력을 발휘합니다. LED 조명의 색온도 조절 기능이 있는지 상세 페이지를 확인해보는 것이 좋습니다.
 
 <strong>장점</strong>: 작업등 수준의 강력한 밝기와 튼튼한 바디.  

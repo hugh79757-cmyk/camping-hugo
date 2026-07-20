@@ -47,7 +47,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>칼루스 경량 등산배낭 40L — 가볍게 떠나는 당일 산행</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="칼루스 경량 등산배낭 40L" caption="칼루스 경량 등산배낭은 40L 용량으로 당일 산행이나 짧은 트레킹에 안성맞춤입니다. 사계절용으로 나와 있어 계절에 관계없이 사용할 수 있고, 블랙 색상은 어떤 옷차림에도 잘 어울립니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/7847fdd1bdc4d406.webp" alt="칼루스 경량 등산배낭 40L" caption="칼루스 경량 등산배낭은 40L 용량으로 당일 산행이나 짧은 트레킹에 안성맞춤입니다. 사계절용으로 나와 있어 계절에 관계없이 사용할 수 있고, 블랙 색상은 어떤 옷차림에도 잘 어울립니다." >}}
 - <strong>가격:</strong> 30,240원
 - <strong>용량:</strong> 40L
 - <strong>배송:</strong> 무료배송
@@ -62,7 +62,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>백패킹 등산가방 배낭 65L — 가성비 대용량의 정석</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="백패킹 등산가방 배낭 65L" caption="65L 대용량 백패킹 배낭은 카키 색상의 밀리터리 스타일이 돋보입니다. 2박 이상의 본격적인 산행이나 야영을 준비하는 분들에게 적합한 크기입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/5f150b00fa57da2f.webp" alt="백패킹 등산가방 배낭 65L" caption="65L 대용량 백패킹 배낭은 카키 색상의 밀리터리 스타일이 돋보입니다. 2박 이상의 본격적인 산행이나 야영을 준비하는 분들에게 적합한 크기입니다." >}}
 - <strong>가격:</strong> 41,900원 (네이버 최저가 39,900원)
 - <strong>용량:</strong> 65L
 - <strong>배송:</strong> 로켓배송
@@ -77,7 +77,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>뉴아웃랜더 아즈네 등산백팩 50L — 1박 2일에 최적화</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="뉴아웃랜더 아즈네 등산백팩 50L" caption="뉴아웃랜더 아즈네는 50L 용량으로 1박 2일 백패킹에 가장 많이 선택되는 사이즈입니다. 방수커버가 포함되어 있어 갑작스러운 비에도 대비할 수 있습니다. 네이비 색상은 차분하고 실용적입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4705556214108064.webp" alt="뉴아웃랜더 아즈네 등산백팩 50L" caption="뉴아웃랜더 아즈네는 50L 용량으로 1박 2일 백패킹에 가장 많이 선택되는 사이즈입니다. 방수커버가 포함되어 있어 갑작스러운 비에도 대비할 수 있습니다. 네이비 색상은 차분하고 실용적입니다." >}}
 - <strong>가격:</strong> 54,900원
 - <strong>용량:</strong> 50L
 - <strong>배송:</strong> 로켓배송
@@ -92,7 +92,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>뉴아웃랜더 안토니 대형 80L — 장기 종주를 위한 든든한 파트너</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="뉴아웃랜더 안토니 대형 80L" caption="뉴아웃랜더 안토니는 80L의 초대형 배낭으로, 장기 종주나 혹한기 백패킹을 염두에 둔 분들에게 적합합니다. 방수커버가 포함되어 있고, 블랙 색상은 실용성이 높습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4705556214108064.webp" alt="뉴아웃랜더 안토니 대형 80L" caption="뉴아웃랜더 안토니는 80L의 초대형 배낭으로, 장기 종주나 혹한기 백패킹을 염두에 둔 분들에게 적합합니다. 방수커버가 포함되어 있고, 블랙 색상은 실용성이 높습니다." >}}
 - <strong>가격:</strong> 78,900원
 - <strong>용량:</strong> 80L
 - <strong>배송:</strong> 로켓배송
@@ -107,7 +107,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>네이처하이크 트래킹 백팩 60L — 브랜드 믿고 선택하는 중형 배낭</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="네이처하이크 트래킹 백팩 60L" caption="네이처하이크는 캠핑과 백패킹 분야에서 탄탄한 입지를 다진 브랜드입니다. 이 트래킹 백팩 60L는 중형과 대형의 중간 지점으로, 1박 2일에서 2박 3일까지 폭넓게 사용 가능합니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/3ba405b8cf3ed2cb.webp" alt="네이처하이크 트래킹 백팩 60L" caption="네이처하이크는 캠핑과 백패킹 분야에서 탄탄한 입지를 다진 브랜드입니다. 이 트래킹 백팩 60L는 중형과 대형의 중간 지점으로, 1박 2일에서 2박 3일까지 폭넓게 사용 가능합니다." >}}
 - <strong>가격:</strong> 80,800원
 - <strong>용량:</strong> 60L
 - <strong>배송:</strong> 무료배송

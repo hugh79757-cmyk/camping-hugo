@@ -39,7 +39,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 실속있는 1-2인용 스텐 5P — 혼자 또는 둘이서 부담 없는 실속형
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="실속있는 1-2인용 스텐 5P" caption="가격 | 28,800원" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/3dc051b306c5b989.webp" alt="실속있는 1-2인용 스텐 5P" caption="가격 | 28,800원" >}}
 소재 | 스테인리스
 구성 | 냄비 1P, 시에라컵 2P, 캠핑컵 2P, 보관 파우치
 배송 | 일반배송
@@ -55,7 +55,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: LIBERO 웜벳 스텐 코펠 3-4인용 7종 세트 — 가족 캠핑 기본标配
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="LIBERO 웜벳 스텐 코펠 3~4인용 7종 세트" caption="가격 | 43,230원" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/0ffb1c4bc93bce86.webp" alt="LIBERO 웜벳 스텐 코펠 3~4인용 7종 세트" caption="가격 | 43,230원" >}}
 소재 | 스테인리스
 구성 | 7종 세트 (냄비, 프라이팬, 컵 등)
 배송 | 로켓배송
@@ -71,7 +71,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: NEW SALE BBQ 캠핑 화로대 그릴 40cm — 불맛 요리를 원하는 캠퍼
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="NEW SALE BBQ 캠핑 화로대 그릴 40cm" caption="가격 | 49,990원 (네이버 최저가 39,990원)" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/5f5c57dc0a5800b3.webp" alt="NEW SALE BBQ 캠핑 화로대 그릴 40cm" caption="가격 | 49,990원 (네이버 최저가 39,990원)" >}}
 크기 | 40 x 24.5 x 38.5 cm
 배송 | 무료배송
 
@@ -86,7 +86,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: NEW SALE BBQ 캠핑 화로대 그릴 70cm — 대규모 바베큐 파티용
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="NEW SALE BBQ 캠핑 화로대 그릴 70cm" caption="가격 | 57,990원" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/5f5c57dc0a5800b3.webp" alt="NEW SALE BBQ 캠핑 화로대 그릴 70cm" caption="가격 | 57,990원" >}}
 크기 | 70 x 73 x 33 cm
 배송 | 무료배송
 
@@ -101,7 +101,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: LIBERO 웜벳 스텐 코펠 7~8인용 세트 — 대가족 및 단체 캠핑
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="LIBERO 웜벳 스텐 코펠 7~8인용 세트" caption="가격 | 75,000원" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/0ffb1c4bc93bce86.webp" alt="LIBERO 웜벳 스텐 코펠 7~8인용 세트" caption="가격 | 75,000원" >}}
 소재 | 스테인리스
 구성 | 7~8인용 세트
 배송 | 로켓배송

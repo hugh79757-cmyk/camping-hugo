@@ -35,35 +35,35 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 디노브 경량 접이식 캠핑 테이블 — 가격 대비 합격점
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="디노브 경량 접이식 캠핑 테이블" caption="<strong>핵심 포인트:</strong> 19,500원의 가격에 알루미늄 소재를 사용해 가벼우면서도 내구성이 좋습니다. 원스위크라이프 브랜드의 경량 접이식 디자인으로 수납 공간을 많이 차지하지 않습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/086847842a7285a5.webp" alt="디노브 경량 접이식 캠핑 테이블" caption="<strong>핵심 포인트:</strong> 19,500원의 가격에 알루미늄 소재를 사용해 가벼우면서도 내구성이 좋습니다. 원스위크라이프 브랜드의 경량 접이식 디자인으로 수납 공간을 많이 차지하지 않습니다." >}}
 이 제품은 2인용 피크닉이나 솔로 캠핑에 딱 맞습니다. 평소 배낭에 넣어 다니다가 필요할 때 펼쳐서 사용할 수 있어 직장인 주말 캠핑족에게 특히 매력적입니다. 무게가 가볍고 알루미늄이라 비 오는 날에도 녹슬 염려가 적습니다. 다만 사이드 테이블용으로는 크기가 작은 편이어서 메인 테이블로 쓰기에는 무리가 있습니다. 리뷰 4.8점으로 구매자 만족도가 높고 로켓배송으로 빠르게 받을 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8987657584&itemId=26406092501&vendorItemId=95084182317&traceid=V0-153-dbcb4752d79df0e1&clickBeacon=abab2720-7e9a-11f1-8690-b4cf0d3d771a%7E3&requestid=20260713181019481006678876&token=31850C%7CMIXED)
 
 ## 2위: 모아캠프 접이식 폴딩 캠핑테이블 — 단체 캠핑에 실속
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="모아캠프 접이식 폴딩 캠핑테이블" caption="<strong>핵심 포인트:</strong> 37,250원의 가격으로 네이버 최저가 29,800원보다 약간 높지만 로켓배송 혜택이 있습니다. 고정형 폴딩 방식으로 튼튼하게 사용할 수 있습니다. 블랙 컬러로 세련된 디자인이 장점입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/d549199e88784f74.webp" alt="모아캠프 접이식 폴딩 캠핑테이블" caption="<strong>핵심 포인트:</strong> 37,250원의 가격으로 네이버 최저가 29,800원보다 약간 높지만 로켓배송 혜택이 있습니다. 고정형 폴딩 방식으로 튼튼하게 사용할 수 있습니다. 블랙 컬러로 세련된 디자인이 장점입니다." >}}
 이 제품은 가족 캠핑이나 친구들과 오토캠핑을 즐길 때 좋습니다. 접이식이지만 펼쳤을 때 면적이 넉넉해 냄비와 접시를 동시에 올려놓을 수 있습니다. 다만 완전 접이식이 아니라서 수납 시 일정 부피를 차지합니다. 무게는 2~3kg 내외로 추정되며 차량 이동이 주라면 부담 없습니다. 한여름 캠핑장에서 4인 가족이 둘러앉아 식사하기에 적당한 크기입니다. 로켓배송으로 주말 전에 받을 수 있어 계획 세우기에 편리합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9466037004&itemId=28170979347&vendorItemId=95508233752&traceid=V0-153-d1904ea9b28def28&clickBeacon=abab2720-7e9a-11f1-be23-6c36a71e68bb%7E3&requestid=20260713181019481006678876&token=31850C%7CMIXED)
 
 ## 3위: Bonjour 아웃도어 접이식 캠핑 테이블 — 최저가로 부담 없이
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="Bonjour 아웃도어 접이식 캠핑 테이블" caption="<strong>핵심 포인트:</strong> 17,800원으로 가장 저렴한 가격입니다. 경량 휴대용 디자인이며 내모마성 스프레이 기술로 물이 튀어도 쉽게 닦입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/3d20ce9d238c98f5.webp" alt="Bonjour 아웃도어 접이식 캠핑 테이블" caption="<strong>핵심 포인트:</strong> 17,800원으로 가장 저렴한 가격입니다. 경량 휴대용 디자인이며 내모마성 스프레이 기술로 물이 튀어도 쉽게 닦입니다." >}}
 처음 캠핑을 시작하는 분이나 1~2인용 간단한 피크닉 테이블이 필요할 때 제격입니다. 가격이 부담 없어서 하나쯤 사두고 차박이나 산책길에 간단히 사용하기 좋습니다. 다만 소재가 상대적으로 저렴하고 내구성이 약할 수 있어 장기 사용보다는 가벼운 용도에 추천합니다. 로켓배송으로 17,800원이면 배송비 부담 없이 집까지 받을 수 있어 만족도가 높습니다. 실제 구매자 반응은 "가격 대비 쓸 만하다"는 의견이 많습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8220565501&itemId=23626210207&vendorItemId=95503163660&traceid=V0-153-4e7e148f294da0f1&requestid=20260713181019481006678876&token=31850C%7CMIXED)
 
 ## 4위: 높이조절 초경량 알루미늄 캠핑 테이블 — 차박에 최적
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="높이조절 초경량 알루미늄 캠핑 테이블" caption="<strong>핵심 포인트:</strong> 높이를 조절할 수 있어 앉아서도 서서도 사용 가능합니다. 초경량 알루미늄 소재로 휴대성이 뛰어납니다. 실버 색상은 깔끔한 인상을 줍니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/32c5d99db4f218e6.webp" alt="높이조절 초경량 알루미늄 캠핑 테이블" caption="<strong>핵심 포인트:</strong> 높이를 조절할 수 있어 앉아서도 서서도 사용 가능합니다. 초경량 알루미늄 소재로 휴대성이 뛰어납니다. 실버 색상은 깔끔한 인상을 줍니다." >}}
 차박이나 백패킹을 자주 다니는 분이라면 높이 조절 기능이 유용합니다. 트렁크에 넣어 다니다가 캠핑장에서 좌식으로도, 식탁으로도 바꿀 수 있습니다. 무게가 1kg 미만이라 배낭에 넣어도 부담이 적습니다. 다만 알루미늄이라 충격에 다소 약할 수 있어 조심히 다뤄야 합니다. 네이버 최저가가 152,730원으로 표시되어 있지만 쿠팡에서는 38,890원에 판매 중이니 꼭 비교해보세요.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9466524569&itemId=28172675376&vendorItemId=95127521436&traceid=V0-153-0be213e67715500b&clickBeacon=abab2720-7e9a-11f1-9300-e4f3579d5a60%7E3&requestid=20260713181019481006678876&token=31850C%7CMIXED)
 
 ## 5위: Ageye 캠핑 아웃도어 접이식 미니 테이블 — 은백색 감성
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="Ageye 캠핑 아웃도어 접이식 미니 테이블" caption="<strong>핵심 포인트:</strong> 미니 사이드 테이블로 감각적인 은백색 디자인이 돋보입니다. 경량 접이식이라 수납이 간편합니다. 정가는 65,000원이지만 네이버 최저가 26,390원으로 구매할 수 있습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/6e3ebe273694dd3b.webp" alt="Ageye 캠핑 아웃도어 접이식 미니 테이블" caption="<strong>핵심 포인트:</strong> 미니 사이드 테이블로 감각적인 은백색 디자인이 돋보입니다. 경량 접이식이라 수납이 간편합니다. 정가는 65,000원이지만 네이버 최저가 26,390원으로 구매할 수 있습니다." >}}
 의자 옆에 놓고 음료나 스마트폰을 올려두는 사이드 테이블로 제격입니다. 캠핑 초보자보다는 소품 하나에도 신경 쓰는 감성 캠퍼에게 추천합니다. 다만 가격이 타사 미니 테이블보다 다소 높은 편이고, 좌식용이라 높이가 낮아 식탁 대용으로는 어렵습니다. 제품 자체는 내구성이 우수하고 은은한 광택이 캠핑 분위기를 살려줍니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9093577612&itemId=26725507449&vendorItemId=93696998393&traceid=V0-153-85d583bceb6c5551&clickBeacon=abab2720-7e9a-11f1-bbe5-5befbcfa06cc%7E3&requestid=20260713181019481006678876&token=31850C%7CMIXED)

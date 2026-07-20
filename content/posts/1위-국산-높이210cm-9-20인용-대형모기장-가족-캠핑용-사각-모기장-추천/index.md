@@ -7,8 +7,8 @@ slug: "1위-국산-높이210cm-9-20인용-대형모기장-가족-캠핑용-사�
 categories: ['추천']
 tags: ['대형모기장', '썬샤인']
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
+  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/9c2bfa84d0f8fd53.webp"
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/9c2bfa84d0f8fd53.webp"
 ---
 {{< lead >}}
 2026년 7월, 본격적인 여름 캠핑 시즌이 시작되었습니다. 모기와 각종 벌레 때문에 캠핑장에서 잠을 설친 경험이 있다면, 대형모기장 하나로 해결할 수 있습니다. 오늘은 가족 단위 오토캠핑부터 실내 사용까지 폭넓게 활용 가능한 대형모기장 5가지를 꼼꼼히 비교해드립니다.

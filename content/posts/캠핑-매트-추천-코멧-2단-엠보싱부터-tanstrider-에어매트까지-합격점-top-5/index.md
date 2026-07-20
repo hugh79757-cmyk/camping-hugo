@@ -41,7 +41,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>1순위: 코멧 2단 엠보싱 캠핑매트 — 실속형 1위, 가격 대비 만족도 최고</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="코멧 2단 엠보싱 캠핑매트" caption="쿠팡 캠핑매트 카테고리 1위를 차지한 제품입니다. <strong>펼쳤을 때 202x140cm</strong>의 넉넉한 사이즈로 성인 2명이 충분히 누울 수 있습니다. 2단 엠보싱 구조가 바닥의 돌기와 냉기를 효과적으로 차단해 줍니다. 보관가방이 함께 제공되어 수납과 이동이 간편합니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/2fdd5c4be9c1b027.webp" alt="코멧 2단 엠보싱 캠핑매트" caption="쿠팡 캠핑매트 카테고리 1위를 차지한 제품입니다. <strong>펼쳤을 때 202x140cm</strong>의 넉넉한 사이즈로 성인 2명이 충분히 누울 수 있습니다. 2단 엠보싱 구조가 바닥의 돌기와 냉기를 효과적으로 차단해 줍니다. 보관가방이 함께 제공되어 수납과 이동이 간편합니다." >}}
 <strong>장점</strong>으로는 1만 원 초반의 가격에 로켓배송으로 다음 날 받을 수 있다는 점입니다. 엠보싱 표면이 미끄러짐을 방지해 텐트 안에서 밀리지 않습니다.
 
 <strong>아쉬운 점</strong>은 두께가 얇아 바위나 울퉁불퉁한 지면에서는 충격 흡수가 부족할 수 있습니다. 평탄한 오토캠핑장이나 차박용으로 적합합니다.
@@ -52,7 +52,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>2순위: 코멧 3단 폴딩 엠보싱 캠핑매트 — 접이식의 편리함</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="코멧 3단 폴딩 엠보싱 캠핑매트" caption="2단보다 한 단계 업그레이드된 3단 폴딩 방식입니다. 접었다 펴는 것만으로 바로 사용할 수 있어 에어펌프나 바람 넣는 번거로움이 없습니다. 엠보싱 표면 처리로 보온성과 쿠션감이 더욱 좋아졌습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/2fdd5c4be9c1b027.webp" alt="코멧 3단 폴딩 엠보싱 캠핑매트" caption="2단보다 한 단계 업그레이드된 3단 폴딩 방식입니다. 접었다 펴는 것만으로 바로 사용할 수 있어 에어펌프나 바람 넣는 번거로움이 없습니다. 엠보싱 표면 처리로 보온성과 쿠션감이 더욱 좋아졌습니다." >}}
 <strong>장점</strong>은 14,990원이라는 가격에 3단 접이식 구조로 수납 공간을 절약할 수 있다는 점입니다. 가방에 쏙 들어가 차량 트렁크에 부담 없이 넣어둘 수 있습니다.
 
 <strong>아쉬운 점</strong>은 폼 자체가 다소 딱딱하게 느껴질 수 있어, 옆으로 누워 자는 체질이라면 엉덩이 부분이 패이는 느낌이 들 수 있습니다.
@@ -63,7 +63,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>3순위: 야외용 3단 캠핑매트 돗자리 150X200 — 디자인과 실용성의 균형</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="야외용 3단 캠핑매트" caption="150x200cm로 성인 2~3명이 누울 수 있는 넉넉한 사이즈입니다. 동물원 체크 패턴이 캠핑 분위기를 한층 살려줍니다. 3단 접이식으로 펼치고 접기가 간편합니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4cd80052fe0c1c4c.webp" alt="야외용 3단 캠핑매트" caption="150x200cm로 성인 2~3명이 누울 수 있는 넉넉한 사이즈입니다. 동물원 체크 패턴이 캠핑 분위기를 한층 살려줍니다. 3단 접이식으로 펼치고 접기가 간편합니다." >}}
 <strong>장점</strong>은 무료배송에 13,200원이라는 합리적인 가격입니다. 폴리에스터 원단으로 방수와 내구성이 뛰어나 풀밭이나 모래사장에서도 부담 없이 사용할 수 있습니다.
 
 <strong>아쉬운 점</strong>은 엠보싱 폼이 아닌 일반 돗자리 형태로 두께가 얇아 장시간 누워 있기에는 쿠션감이 부족합니다. 피크닉이나 낮잠용으로 적합합니다.
@@ -74,7 +74,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>4순위: ODNUM 대형 피크닉 매트 — 방수 방습, 다용도 활용</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="ODNUM 대형 피크닉 매트" caption="양면으로 사용할 수 있는 대형 피크닉 매트입니다. 방수와 방습 기능이 뛰어나 이슬 맺힌 잔디 위에서도 걱정 없이 사용할 수 있습니다. 접이식으로 휴대가 간편하며, 두툼한 두께감이 바닥의 냉기를 차단해 줍니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/561ce6a9b40031b9.webp" alt="ODNUM 대형 피크닉 매트" caption="양면으로 사용할 수 있는 대형 피크닉 매트입니다. 방수와 방습 기능이 뛰어나 이슬 맺힌 잔디 위에서도 걱정 없이 사용할 수 있습니다. 접이식으로 휴대가 간편하며, 두툼한 두께감이 바닥의 냉기를 차단해 줍니다." >}}
 <strong>장점</strong>은 22,900원으로 비교적 저렴한 가격에 대형 사이즈를 쓸 수 있다는 점입니다. 방수 원단이라 음료를 쏟아도 쉽게 닦을 수 있습니다.
 
 <strong>아쉬운 점</strong>은 캠핑 전용 매트보다는 피크닉용으로 설계되어 장시간 텐트 안에서 사용하기에는 단열성이 떨어질 수 있습니다.
@@ -85,7 +85,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>5순위: TANSTRIDER 에어침대 에어매트내장형 — 차박과 백패킹을 위한 프리미엄 선택</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="TANSTRIDER 에어매트" caption="가장 프리미엄 제품으로, <strong>에어펌프가 내장된 자충매트</strong>입니다. 높이 40cm로 바닥에서 완전히 떠 있는 느낌을 줍니다. 자동펌프 내장형이라 전원만 연결하면 알아서 부풀어 오릅니다. 캠핑장에서도 편리하게 사용할 수 있습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/e11ef2fb3279801f.webp" alt="TANSTRIDER 에어매트" caption="가장 프리미엄 제품으로, <strong>에어펌프가 내장된 자충매트</strong>입니다. 높이 40cm로 바닥에서 완전히 떠 있는 느낌을 줍니다. 자동펌프 내장형이라 전원만 연결하면 알아서 부풀어 오릅니다. 캠핑장에서도 편리하게 사용할 수 있습니다." >}}
 <strong>장점</strong>은 에어매트 내장형으로 별도의 펌프가 필요 없고, 40cm 높이가 바닥의 돌기와 냉기를 완벽히 차단해 준다는 점입니다. 차량 트렁크에 맞춰 사용하기 좋습니다.
 
 <strong>아쉬운 점</strong>은 75,500원으로 가격대가 높고, 무게가 상당해 백패킹에는 부적합합니다. 또한 펌프 작동 시 소음이 발생할 수 있습니다.

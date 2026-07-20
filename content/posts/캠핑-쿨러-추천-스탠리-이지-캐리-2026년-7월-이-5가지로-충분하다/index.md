@@ -39,7 +39,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>스탠리 이지 캐리 쿨러 — 프리미엄 단열의 정석</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="스탠리 이지 캐리 쿨러 아이스박스" caption="<strong>스탠리 이지 캐리 쿨러 아이스박스, 포멜로, 15.1L</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/d3ea7b68395cdd95.webp" alt="스탠리 이지 캐리 쿨러 아이스박스" caption="<strong>스탠리 이지 캐리 쿨러 아이스박스, 포멜로, 15.1L</strong>" >}}
 가격: 101,300원 (로켓배송) | 쿠팡 순위 2위
 
 1~2인 캠핑이나 피크닉에 딱 맞는 15.1L 용량입니다. 스탠리 특유의 이중 진공 단열 구조로 일반 아이스박스보다 얼음 보존 시간이 2배 이상 깁니다. 뚜껑에 컵홀더가 있어 음료를 바로 꽂아 둘 수 있는 세심함도 돋보입니다.
@@ -57,7 +57,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>CAMTEL 대용량 하드쿨러 — 가족 캠핑의 해결사</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="CAMTEL 대용량 캠핑 낚시 하드쿨러" caption="<strong>[CAMTEL] 대용량 캠핑 낚시 하드쿨러 아이스박스, 오렌지/그레이, 60L</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/9bd932c832fc47df.webp" alt="CAMTEL 대용량 캠핑 낚시 하드쿨러" caption="<strong>[CAMTEL] 대용량 캠핑 낚시 하드쿨러 아이스박스, 오렌지/그레이, 60L</strong>" >}}
 가격: 96,800원 (무료배송) | 쿠팡 순위 4위
 
 60L라는 거대한 용량은 4인 이상 가족 캠핑이나 낚시 동호회에서 위력을 발휘합니다. 트렁크에 넣어두고 3박 정도 얼음을 유지할 정도의 단열 성능을 갖췄습니다. 하드 쿨러 특유의 단단한 외관이 내용물을 보호해 줍니다.
@@ -75,7 +75,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>도피오 아이스 벙커 — 1만 원대 가벼운 보조 쿨러</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="도피오 아이스 벙커" caption="<strong>도피오 아이스 벙커</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/880b6f07b8f56dd3.webp" alt="도피오 아이스 벙커" caption="<strong>도피오 아이스 벙커</strong>" >}}
 가격: 11,520원 (무료배송) | 쿠팡 순위 6위
 
 이 가격에 이만한 아이스박스가 있다는 게 놀라울 정도입니다. 1만 원 초반대라 부담 없이 하나 더 들고 다닐 수 있습니다. 간단한 도시락이나 음료 몇 캔을 1~2시간 보관하는 용도에 적합합니다.
@@ -93,7 +93,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>코멧 테이블 아이스박스 27L — 로켓배송 실속형</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="코멧 테이블 아이스박스 대용량 27L" caption="<strong>코멧 테이블 아이스 박스 대용량 27L</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/2fdd5c4be9c1b027.webp" alt="코멧 테이블 아이스박스 대용량 27L" caption="<strong>코멧 테이블 아이스 박스 대용량 27L</strong>" >}}
 가격: 34,990원 (로켓배송) | 쿠팡 순위 7위
 
 27L 용량으로 3~4인 1박 캠핑에 무난한 사이즈입니다. 테이블 위에 올려놓고 사용할 수 있는 디자인이라 상판이 평평합니다. 보냉력도 가격 대비 괜찮아 얼음이 다음 날 아침까지 남아 있었습니다.
@@ -111,7 +111,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>올리빙 도트 캠핑용 아이스박스 — 경량 소프트 쿨러</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="올리빙 도트 캠핑용 아이스박스" caption="<strong>올리빙 도트 캠핑용 아이스박스</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/e21d22480128b4c4.webp" alt="올리빙 도트 캠핑용 아이스박스" caption="<strong>올리빙 도트 캠핑용 아이스박스</strong>" >}}
 가격: 31,900원 (로켓배송) | 쿠팡 순위 8위
 
 소프트 타입 쿨러로 접어서 보관할 수 있어 공간 효율이 좋습니다. 무게가 가벼워 백패킹이나 도보 캠핑에 적합합니다. 귀여운 도트 패턴이 인상적이며, 보냉 기능은 기본에 충실합니다.

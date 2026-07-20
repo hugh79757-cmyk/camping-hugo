@@ -46,7 +46,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 휴대용 원형 고화력 방풍 캠핑 가스 버너 — 가벼운 지갑에 딱 맞는 입문용
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="휴대용 원형 고화력 방풍 캠핑 가스 버너" caption="<strong>가격: 18,900원 | 무료배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/0c5d0ca306567364.webp" alt="휴대용 원형 고화력 방풍 캠핑 가스 버너" caption="<strong>가격: 18,900원 | 무료배송</strong>" >}}
 이 버너는 가장 큰 장점이 가격입니다. 2만 원도 안 되는 가격에 방풍 기능이 포함된 원형 바디를 갖췄습니다. 베이지 색상이라 캠핑장에서 인테리어 감각도 살려줍니다. 주말에 간단한 라면이나 커피를 끓이는 정도의 캠핑을 즐긴다면 이 제품으로도 충분합니다.
 
 <strong>장점:</strong> 저렴한 가격, 방풍 설계로 바람 부는 날씨에도 안정적
@@ -60,7 +60,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: Kingfishe 강염버너 — 안전성과 화력을 동시에 노린 해바라기형
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="Kingfishe 강염버너" caption="<strong>가격: 37,400원 | 무료배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/2e986d124b48f7a6.webp" alt="Kingfishe 강염버너" caption="<strong>가격: 37,400원 | 무료배송</strong>" >}}
 해바라기 모양의 화염 분사 구조가 특징적인 이 제품은 강염버너로서 안전 스토브 기능을 내세웁니다. 휴대용으로 설계되어 부탄가스를 사용하며, 화력이 강력해 그리들 요리에도 무리가 없습니다. 가격대가 3만 원 중반으로 중간 가격대를 선호하는 분들에게 적합합니다.
 
 <strong>장점:</strong> 강염 화력으로 빠른 조리, 안전 스토브 설계
@@ -74,7 +74,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 썬터치 통주물바디 고화력 캠핑버너 4구 — 내구성과 안정성의 정석
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="썬터치 통주물바디 고화력 캠핑버너 4구" caption="<strong>가격: 40,340원 | 무료배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/99ba7309f8e5aa72.webp" alt="썬터치 통주물바디 고화력 캠핑버너 4구" caption="<strong>가격: 40,340원 | 무료배송</strong>" >}}
 썬터치 ST-DS1F는 국내 캠핑 커뮤니티에서 '국민 강염버너'로 불릴 만큼 인기가 높은 제품입니다. 통주물바디로 제작되어 열 변형이 적고 화력이 고르게 분사됩니다. 4구 구조여서 불꽃이 넓게 퍼져 그리들 요리에 매우 효율적입니다. 부탄가스를 사용하며 일반 캠핑장에서 부담 없이 쓸 수 있습니다.
 
 <strong>장점:</strong> 통주물바디 내구성 우수, 4구 화력으로 고른 열분포
@@ -88,7 +88,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 승원 썬연료 초고화력 그리들버너 TY-2400 — 고화력 끝판왕, 전문가용
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="승원 썬연료 초고화력 그리들버너" caption="<strong>가격: 51,000원 | 무료배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/1b7ef655cfcdf557.webp" alt="승원 썬연료 초고화력 그리들버너" caption="<strong>가격: 51,000원 | 무료배송</strong>" >}}
 승원의 썬연료 TY-2400은 이소가스를 사용하는 초고화력 버너로, 백패킹이나 동계 캠핑에서 진가를 발휘합니다. 이소가스는 기온이 낮은 환경에서도 안정적인 화력을 유지하기 때문에 겨울철 산악 캠핑을 즐기는 분들에게 필수적입니다. 밀리터리 색상의 디자인도 실용적입니다.
 
 <strong>장점:</strong> 초고화력으로 빠른 조리, 이소가스 사용으로 저온 환경에 강함

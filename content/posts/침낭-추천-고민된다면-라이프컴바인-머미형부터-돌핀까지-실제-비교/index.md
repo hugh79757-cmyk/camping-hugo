@@ -45,7 +45,7 @@ USB 발열 기능, 방수 기능, 지퍼 여닫이 방식 등 세부 기능도 �
 
 ## 1위: 라이프컴바인 머미형 침낭 — 사계절용 안정적인 선택
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="라이프컴바인 머미형 침낭" caption="<strong>가격: 165,000원 | 무게: 2.4kg | 펼침: 210×75cm | 로켓배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/54720c61161760fb.webp" alt="라이프컴바인 머미형 침낭" caption="<strong>가격: 165,000원 | 무게: 2.4kg | 펼침: 210×75cm | 로켓배송</strong>" >}}
 라이프컴바인 머미형 침낭은 쿠팡 침낭 카테고리 1위를 기록한 제품입니다. 2.4kg의 무게는 다소 무거운 편이지만, 머미형 구조 덕분에 사계절 내내 사용할 수 있는 보온성을 갖췄습니다. 펼쳤을 때 210×75cm 크기로 성인 남성도 충분히 누울 수 있습니다.
 
 <strong>장점:</strong> 머미형 구조로 보온성이 뛰어나며, 로켓배송으로 빠르게 받을 수 있습니다. 사계절용으로 표기되어 있어 봄, 가을, 초겨울까지 폭넓게 사용 가능합니다.
@@ -58,7 +58,7 @@ USB 발열 기능, 방수 기능, 지퍼 여닫이 방식 등 세부 기능도 �
 
 ## 2위: 돌핀 캠핑이불 거위털 — 구스다운의 가벼움과 보온
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="돌핀 캠핑이불 거위털" caption="<strong>가격: 100,000원 | 소재: 거위털(구스다운) | 로켓배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/3b3220cae10739fa.webp" alt="돌핀 캠핑이불 거위털" caption="<strong>가격: 100,000원 | 소재: 거위털(구스다운) | 로켓배송</strong>" >}}
 돌핀 캠핑이불 거위털 제품은 구스다운 충전재를 사용해 보온성과 경량성을 동시에 잡았습니다. 1인용으로 설계되어 차박이나 백패킹에 적합하며, 사계절용으로 사용할 수 있습니다. 거위털 특유의 부드러운 촉감과 뛰어난 복원력이 장점입니다.
 
 <strong>장점:</strong> 거위털 충전재로 압축률이 좋아 수납 공간을 적게 차지합니다. 같은 보온력 대비 합성 충전재보다 가벼워 백패킹 입문자에게 추천할 만합니다. 로켓배송도 가능합니다.
@@ -69,7 +69,7 @@ USB 발열 기능, 방수 기능, 지퍼 여닫이 방식 등 세부 기능도 �
 
 ## 3위: 동계 USB 발열침낭 — 겨울 캠핑의 새로운 해법
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="동계 USB 발열침낭" caption="<strong>가격: 59,890원 | 무료배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/2732b09d469a43cf.webp" alt="동계 USB 발열침낭" caption="<strong>가격: 59,890원 | 무료배송</strong>" >}}
 USB 발열 기능이 내장된 동계용 침낭입니다. 보조배터리만 있으면 언제든지 온열 기능을 켤 수 있어, 영하권 날씨에도 따뜻하게 잠을 잘 수 있습니다. 방수 기능도 있어 습기 많은 환경에서도 사용하기 좋습니다.
 
 <strong>장점:</strong> 발열 기능이 있어 동계 캠핑에서 확실한 보온을 보장합니다. 방수 소재를 사용해 이슬이나 가벼운 비에도 걱정이 적습니다. 가격 대비 기능이 풍부해 실속 있는 선택입니다.
@@ -82,7 +82,7 @@ USB 발열 기능이 내장된 동계용 침낭입니다. 보조배터리만 있
 
 ## 4위: 돌핀 마이크로화이바 여름용 — 2만 원대 초경량 침낭
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="돌핀 마이크로화이바 여름용" caption="<strong>가격: 23,490원 | 소재: 마이크로화이바 | 로켓배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/3b3220cae10739fa.webp" alt="돌핀 마이크로화이바 여름용" caption="<strong>가격: 23,490원 | 소재: 마이크로화이바 | 로켓배송</strong>" >}}
 돌핀 마이크로화이바 여름용 침낭은 2만 원대 가격으로 부담 없이 구매할 수 있는 제품입니다. 마이크로화이바 소재는 통기성이 좋고 가벼워 여름철 캠핑이나 실내용으로 적합합니다. 스카이/오렌지 배색이 시원한 느낌을 줍니다.
 
 <strong>장점:</strong> 가격이 매우 저렴해 입문용이나 서브 침낭으로 좋습니다. 마이크로화이바 소재는 세탁이 쉽고 빠르게 건조됩니다. 로켓배송으로 다음 날 받을 수 있습니다.
@@ -93,7 +93,7 @@ USB 발열 기능이 내장된 동계용 침낭입니다. 보조배터리만 있
 
 ## 5위: 코멧 머미형 침낭 210 x 75cm — 1만 원대 가성비 끝판왕
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="코멧 머미형 침낭" caption="<strong>가격: 10,290원 | 펼침: 210×75cm | 로켓배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/2fdd5c4be9c1b027.webp" alt="코멧 머미형 침낭" caption="<strong>가격: 10,290원 | 펼침: 210×75cm | 로켓배송</strong>" >}}
 코멧 머미형 침낭은 1만 원 초반대 가격으로 머미형 구조를 갖춘 제품입니다. 210×75cm 크기로 성인 남성이 사용하기에도 충분하며, 로켓배송으로 빠르게 받을 수 있습니다.
 
 <strong>장점:</strong> 가격이 1만 원대로 매우 저렴해 예산이 부족한 초보 캠퍼에게 적합합니다. 머미형 구조 덕분에 보온성이 기본 이상은 됩니다. 코멧 브랜드 제품으로 품질 관리도 나쁘지 않습니다.

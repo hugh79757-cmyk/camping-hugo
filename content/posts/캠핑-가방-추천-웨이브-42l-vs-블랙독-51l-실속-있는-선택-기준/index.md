@@ -37,14 +37,14 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 밴프 캠핑 가방 특대형 — 9,900원의 놀라운 실속
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="밴프 캠핑 가방 특대형" caption="밴프 캠핑 가방 특대형" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/bb80437103c7ec22.webp" alt="밴프 캠핑 가방 특대형" caption="밴프 캠핑 가방 특대형" >}}
 캠핑 초보나 당일치기 피크닉에 안성맞춤입니다. 가격이 9,900원으로 부담 없고 로켓배송으로 다음 날 받을 수 있습니다. 특대형이라 담요와 간단한 식기, 작은 텐트 accessories 정도 넣기에 충분합니다. 가벼운 무게로 차량 적재함에 여러 개 쌓아두기 좋습니다. 다만 소재가 옥스퍼드가 아닌 일반 원단이라 무거운 물건을 장기간 넣어두면 찢어질 위험이 있습니다.[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7427151874&itemId=19358354124&vendorItemId=86637134035&traceid=V0-153-bc9df9be993202c6&requestid=20260714221005575246860643&token=31850C%7CMIXED)
 
 ---
 
 ## 2위: BLACKDOG CW 600D 옥스퍼드 전술 캠핑 가방 51L — 튼튼함에 가격까지 합격점
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="BLACKDOG CW 600D" caption="BLACKDOG CW 600D" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/e435ced567c94e40.webp" alt="BLACKDOG CW 600D" caption="BLACKDOG CW 600D" >}}
 블랙독은 캠핑 장비로 유명한 브랜드입니다. 이 가방은 600D 옥스퍼드 원단으로 제작되어 찢김과 마모에 강합니다. 51L 용량은 2~3인 가족 캠핑에서 의류와 잡화를 하나로 모으기에 알맞습니다. 전술 스타일의 디자인은 모듈식 파우치를 추가할 수 있어 확장성도 뛰어납니다. 무료배송이며 가격은 25,900원으로, 600D 원단 제품치고 상당히 실속 있습니다. 아쉬운 점은 전용 방수커버가 별도인지 확인이 필요하다는 점입니다. 간단한 방수 코팅은 되어 있지만 폭우에는 취약할 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8118506912&itemId=23019828115&vendorItemId=92121898144&traceid=V0-153-96a801332c4b1623&requestid=20260714221005575246860643&token=31850C%7CMIXED)
@@ -53,7 +53,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: wave 대용량 수납 다용도 캠핑가방 42L 2개 — 2개 세트의 매력
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="wave 대용량 수납 가방" caption="wave 대용량 수납 가방" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/c042b1cba7f52518.webp" alt="wave 대용량 수납 가방" caption="wave 대용량 수납 가방" >}}
 wave 제품은 42L 가방 2개가 한 세트로, 총 84L를 확보할 수 있습니다. 캠핑 짐을 용도별로 분류해서 넣기에 좋습니다. 예를 들어 한쪽에는 침낭과 매트, 다른 쪽에는 식기와 조리 도구를 나눠 담으면 캠핑장에서 찾기가 훨씬 편리합니다. 로켓배송으로 빠르게 받을 수 있고, 가격은 38,700원으로 2개 치고 합리적입니다. 네이버 최저가 36,700원보다 쿠팡 가격이 오히려 저렴한 편입니다. 다만 각 가방의 내부 포켓 구성이 단순해 작은 물건 정리에는 부족할 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9530847354&itemId=28422387638&vendorItemId=95428249023&traceid=V0-153-af109f404569bead&clickBeacon=54836070-7f85-11f1-aa2f-140bc2673fb0%7E3&requestid=20260714221004988214837036&token=31850C%7CMIXED)
@@ -62,7 +62,7 @@ wave 제품은 42L 가방 2개가 한 세트로, 총 84L를 확보할 수 있습
 
 ## 4위: 아오란 캠핑웨건 광폭타이어 — 가성비 웨건의 강자
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="아오란 캠핑웨건" caption="아오란 캠핑웨건" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/3f98aaf83f10fe86.webp" alt="아오란 캠핑웨건" caption="아오란 캠핑웨건" >}}
 캠핑웨건이 필요하다면 아오란 제품을 눈여겨볼 만합니다. 광폭타이어는 흙길이나 잔디밭에서도 힘들이지 않고 끌 수 있습니다. 가격은 69,800원으로 DXZ보다 1만 원 저렴하면서도 접이식 구조로 수납이 간편합니다. 로켓배송 지원으로 주문 다음 날 도착합니다. 뒷문 개방형은 아니지만 앞쪽 적재 공간이 넉넉해 냉쿨러와 박스 2~3개를 한 번에 옮길 수 있습니다. 다만 브레이크 기능이 없는 모델이므로 경사진 곳에서 주의가 필요합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8950616663&itemId=26181352433&vendorItemId=93160890216&traceid=V0-153-823e004128954122&clickBeacon=54836070-7f85-11f1-a01a-860d5638c71c%7E3&requestid=20260714221004988214837036&token=31850C%7CMIXED)
@@ -71,7 +71,7 @@ wave 제품은 42L 가방 2개가 한 세트로, 총 84L를 확보할 수 있습
 
 ## 5위: DXZ 캠핑웨건 대용량 뒷문개방형 — 완성형 짐 운반
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="DXZ 캠핑웨건" caption="DXZ 캠핑웨건" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4b0fce7a7a894a8b.webp" alt="DXZ 캠핑웨건" caption="DXZ 캠핑웨건" >}}
 DXZ 캠핑웨건은 뒷문이 완전히 열리는 구조가 가장 큰 장점입니다. 긴 아이스박스나 큰 짐을 뒤에서 밀어 넣거나 꺼낼 수 있어 편리합니다. 광폭타이어에 브레이크까지 장착되어 있어 경사진 캠핑장에서도 안정적으로 고정할 수 있습니다. 가격은 79,800원으로 가장 비싸지만, 네이버 최저가 59,800원보다 쿠팡 가격이 높습니다. 쿠팡에서 로켓배송이 되므로 급할 때 유용합니다. 다만 무게가 다소 나가서 접고 펴는 데 힘이 필요할 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9459774204&itemId=28463038496&vendorItemId=95103165712&traceid=V0-153-71fd7e6c0ba1952d&requestid=20260714221004988214837036&token=31850C%7CMIXED)
