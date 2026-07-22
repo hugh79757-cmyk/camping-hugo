@@ -1,14 +1,19 @@
 ---
-title: "노마드 폴더블 멀티백 vs 3WAY 멀티백 — 캠핑 수납 해결사 고르는 법"
-date: 2026-07-07T20:11:51+09:00
+title: 노마드 폴더블 멀티백 vs 3WAY 멀티백 캠핑 수납 해결사 고르는 법
+date: 2026-07-07 20:11:51+09:00
 draft: false
-description: "2026년 7월, 차박과 캠핑을 즐기는 사람이라면 누구나 한 번쯤 고민하는 문제가 있습니다. 텐트, 침낭, 매트, 조리도구까지 챙기다 보면 수납가방이 부족해 지저분해지기 마련입니다. 노마드(NOMADE)는 이런 고민을 해결해줄 폴더블 멀티백과 3WAY 멀티백으로 캠핑족 사이에서 꾸준히"
-slug: "노마드-폴더블-멀티백-vs-3way-멀티백-캠핑-수납-해결사-고르는-법"
-categories: ['추천']
-tags: ['NOMADE', '노마드']
+description: 2026년 7월, 차박과 캠핑을 즐기는 사람이라면 누구나 한 번쯤 고민하는 문제가 있습니다. 텐트, 침낭, 매트, 조리도구까지
+  챙기다 보면 수납가방이 부족해 지저분해지기 마련입니다. 노마드(NOMADE)는 이런 고민을 해결해줄 폴더블 멀티백과 3WAY 멀티백으로 캠핑족
+  사이에서 꾸준히
+slug: 노마드-폴더블-멀티백-vs-3way-멀티백-캠핑-수납-해결사-고르는-법
+categories:
+- 추천
+tags:
+- NOMADE
+- 노마드
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/07/c018d6d2.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/07/c018d6d2.webp"
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/07/c018d6d2.webp
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/07/c018d6d2.webp
 ---
 <p class="lead">
 2026년 7월, 차박과 캠핑을 즐기는 사람이라면 누구나 한 번쯤 고민하는 문제가 있습니다. 텐트, 침낭, 매트, 조리도구까지 챙기다 보면 수납가방이 부족해 지저분해지기 마련입니다. 노마드(NOMADE)는 이런 고민을 해결해줄 폴더블 멀티백과 3WAY 멀티백으로 캠핑족 사이에서 꾸준히 사랑받고 있습니다.

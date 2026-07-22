@@ -1,21 +1,30 @@
 ---
-title: "3만원대부터 20만원대까지 실속 캠핑 난로 추천 — 파세코·나비아·짐머만"
-date: 2026-07-20T23:40:59+09:00
+title: 3만원대부터 20만원대까지 실속 캠핑 난로 추천 파세코나비아짐머만
+date: 2026-07-20 23:40:59+09:00
 draft: false
-description: "2026년 7월, 한여름에도 산속 캠핑장은 해가 지면 기온이 뚝 떨어집니다. 특히 7월 장마철에는 습한 공기까지 더해져 체감 온도가 생각보다 낮아집니다. 텐트 안에서 따뜻한 차 한 잔마저 망설여지는 밤, 작은 난로 하나면 분위기와 온도 모두 잡을 수 있습니다. 하지만 어떤 난로를 골라야"
-slug: "3만원대부터-20만원대까지-실속-캠핑-난로-추천-파세코나비아짐머만"
-categories: ['추천']
-tags: ['유니맥스', '짐머만', '파세코', '리웨이', '추천', '난로']
+description: 2026년 7월, 한여름에도 산속 캠핑장은 해가 지면 기온이 뚝 떨어집니다. 특히 7월 장마철에는 습한 공기까지 더해져 체감
+  온도가 생각보다 낮아집니다. 텐트 안에서 따뜻한 차 한 잔마저 망설여지는 밤, 작은 난로 하나면 분위기와 온도 모두 잡을 수 있습니다. 하지만
+  어떤 난로를 골라야
+slug: 3만원대부터-20만원대까지-실속-캠핑-난로-추천-파세코나비아짐머만
+categories:
+- 추천
+tags:
+- 유니맥스
+- 짐머만
+- 파세코
+- 리웨이
+- 추천
+- 난로
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/73a8947b//2026/07/20/17b966ae.webp"
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/73a8947b//2026/07/20/17b966ae.webp
   relative: true
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/73a8947b//2026/07/20/17b966ae.webp"
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/73a8947b//2026/07/20/17b966ae.webp
 ---
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-left:4px solid #0891b2;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/20260720-20평-공기청정기-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">🔌 20평 공기청정기 추천 추천</a>
-<a href="https://fitness.informationhot.kr/20260720-yoga-rec/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">💪 요가매트 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/슈어홈에어독-필터-교체-없는-공기청정기-추천-2026년-7월-워셔블-5종-비교/"" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">🔌 20평 공기청정기 추천 추천</a>
+<a href="https://fitness.informationhot.kr/posts/프로스펙스코멧-스포츠-운동-밴드-추천-2026년-7월-실속-5종-비교/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">💪 요가매트 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -151,10 +160,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://appliance.informationhot.kr/20260720-20평-공기청정기-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 20평 공기청정기 추천 추천</a>
-<a href="https://fitness.informationhot.kr/20260720-yoga-rec/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 요가매트 추천</a>
-<a href="https://interior.informationhot.kr/20260720-interior-rec/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 인테리어 추천</a>
-<a href="https://pet.informationhot.kr/20260720-pet-rec/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 반려동물 추천</a>
+<a href="https://appliance.informationhot.kr/posts/슈어홈에어독-필터-교체-없는-공기청정기-추천-2026년-7월-워셔블-5종-비교/"" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 20평 공기청정기 추천 추천</a>
+<a href="https://fitness.informationhot.kr/posts/프로스펙스코멧-스포츠-운동-밴드-추천-2026년-7월-실속-5종-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 요가매트 추천</a>
+<a href="https://interior.informationhot.kr/posts/2026년-7월-퀸-침대-추천-흔한-오해-3가지-오키멧아너스하포스-사례로-바로잡기/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 인테리어 추천</a>
+<a href="https://pet.informationhot.kr/posts/베베페페아미체볼레-고양이대리석-고를-때-꼭-확인할-3가지-2026년-7월-기준/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 반려동물 추천</a>
 </div>
 </div>
 
