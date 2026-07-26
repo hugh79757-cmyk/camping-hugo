@@ -170,8 +170,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <div style="display:flex;flex-wrap:wrap;gap:4px">
 <a href="https://appliance.informationhot.kr/posts/슈어홈에어독-필터-교체-없는-공기청정기-추천-2026년-7월-워셔블-5종-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 슈어홈에어독-필터-교체-없는-공기청정기-2026년-7월-워셔블-5종-비교</a>
 <a href="https://fitness.informationhot.kr/posts/프로스펙스코멧-스포츠-운동-밴드-추천-2026년-7월-실속-5종-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 프로스펙스코멧-스포츠-운동-밴드-2026년-7월-실속-5종-비교</a>
-<a href="https://interior.informationhot.kr/posts/2026년-7월-퀸-침대-추천-흔한-오해-3가지-오키멧아너스하포스-사례로-바로잡기/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 2026년-7월-퀸-침대-흔한-오해-3가지-오키멧아너스하포스-사례로-바로잡기</a>
-<a href="https://pet.informationhot.kr/posts/20260721-고양이빗/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 고양이빗 추천</a>
+<a href="https://interior.informationhot.kr/posts/퀸-침대-프레임-추천-동서가구-이즈-카이와-아너스-led-침대프레임-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 2026년-7월-퀸-침대-흔한-오해-3가지-오키멧아너스하포스-사례로-바로잡기</a>
+<a href="https://pet.informationhot.kr/posts/catbis-recommend-nya-ongda-ongbelnalogaenyang-achi-5cheon-wonbuteo-2man-wonkkaji-practical-seontaeg/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 고양이빗 추천</a>
 </div>
 </div>
 

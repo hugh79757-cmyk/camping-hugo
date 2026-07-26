@@ -20,8 +20,8 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-left:4px solid #0891b2;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/20260722-가정용/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">🔌 가정용 추천</a>
-<a href="https://fitness.informationhot.kr/posts/20260722-덤벨-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">💪 덤벨 추천 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/소형-제습기-추천-1위-린보-가정용-소형-vs-2위-한경희-원룸-미니/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">🔌 가정용 추천</a>
+<a href="https://fitness.informationhot.kr/posts/홈짐-덤벨-세트-추천-홈짐-홈트-pev-헥사곤-덤벨과-헤이피-스쿼트-힙밴드/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">💪 덤벨 추천 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -143,10 +143,10 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://appliance.informationhot.kr/posts/20260722-가정용/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 가정용 추천</a>
-<a href="https://fitness.informationhot.kr/posts/20260722-덤벨-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 덤벨 추천 추천</a>
-<a href="https://interior.informationhot.kr/posts/20260722-가정용/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 가정용 추천</a>
-<a href="https://pet.informationhot.kr/posts/20260722-강아지이동가/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 강아지이동가 추천</a>
+<a href="https://appliance.informationhot.kr/posts/소형-제습기-추천-1위-린보-가정용-소형-vs-2위-한경희-원룸-미니/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 가정용 추천</a>
+<a href="https://fitness.informationhot.kr/posts/홈짐-덤벨-세트-추천-홈짐-홈트-pev-헥사곤-덤벨과-헤이피-스쿼트-힙밴드/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 덤벨 추천 추천</a>
+<a href="https://interior.informationhot.kr/posts/게이밍-의자-추천-벤트론스-게이밍-의자-vs-new-world가정용-컴퓨터-의자/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 가정용 추천</a>
+<a href="https://pet.informationhot.kr/posts/강아지이동가-2만원대-추천-2026년-7월-멍뭉스스페이스캣/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 강아지이동가 추천</a>
 </div>
 </div>
 

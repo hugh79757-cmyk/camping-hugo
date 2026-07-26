@@ -145,7 +145,7 @@ DXZ 캠핑웨건은 광폭 타이어와 브레이크 기능을 갖춘 대용량 
 <div style="display:flex;flex-wrap:wrap;gap:4px">
 <a href="https://appliance.informationhot.kr/posts/슈어홈에어독-필터-교체-없는-공기청정기-추천-2026년-7월-워셔블-5종-비교/"" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 필터 교체 없는 공기청정기 추천</a>
 <a href="https://fitness.informationhot.kr/posts/프로스펙스코멧-스포츠-운동-밴드-추천-2026년-7월-실속-5종-비교/"" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 저항밴드 추천 추천</a>
-<a href="https://interior.informationhot.kr/posts/2026년-7월-퀸-침대-추천-흔한-오해-3가지-오키멧아너스하포스-사례로-바로잡기/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 인테리어 추천</a>
+<a href="https://interior.informationhot.kr/posts/코디-3등-주방등-vs-삼팔글로벌-led-벽등-북유럽-인테리어-소품-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 인테리어 추천</a>
 <a href="https://pet.informationhot.kr/posts/베베페페아미체볼레-고양이대리석-고를-때-꼭-확인할-3가지-2026년-7월-기준/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 반려동물 추천</a>
 </div>
 </div>

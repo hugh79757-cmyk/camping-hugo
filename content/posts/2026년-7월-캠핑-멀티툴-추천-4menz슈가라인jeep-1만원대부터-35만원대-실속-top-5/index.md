@@ -139,7 +139,7 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 <a href="https://appliance.informationhot.kr/posts/여름철-제습기-추천-미니아-1등급-산업용-vs-신일-1등급-대용량/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 여름철 제습기 추천 추천</a>
 <a href="https://fitness.informationhot.kr/posts/스파인코렉터-추천-backflow-스파인코렉터-라운드숄더로-바른-자세-만들기/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 스파인코렉터 추천 추천</a>
 <a href="https://interior.informationhot.kr/posts/2인-패브릭-소파-가성비-추천-tixpra-접이식-소파와-2인용-쇼파/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 가성비 추천</a>
-<a href="https://pet.informationhot.kr/posts/20260722-강아지슬링백/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 강아지슬링백 추천</a>
+<a href="https://pet.informationhot.kr/posts/dogseullingbaeg-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 강아지슬링백 추천</a>
 </div>
 </div>
 

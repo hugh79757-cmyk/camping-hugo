@@ -18,8 +18,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/20260724-공기청정기-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">🔌 공기청정기 추천</a>
-<a href="https://fitness.informationhot.kr/posts/20260724-프로틴-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">💪 프로틴 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/rouny-air-purifier-misemeonji-jegeo-mich-peulle-omaegseu-10pyeonghyeong-air-purifier-recommend/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">🔌 공기청정기 추천</a>
+<a href="https://fitness.informationhot.kr/posts/단백질-보충제-추천-뉴욕웨이-라이트-vs-비에스엔-신타-6-프로틴/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">💪 프로틴 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -139,10 +139,10 @@ GPTcamp HD3는 가격 대비 만족도가 높고, 카본 버전은 가벼워서 
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://appliance.informationhot.kr/posts/20260724-공기청정기-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 공기청정기 추천</a>
-<a href="https://fitness.informationhot.kr/posts/20260724-프로틴-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 프로틴 추천</a>
-<a href="https://interior.informationhot.kr/posts/20260724-라텍스-매트리스-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 라텍스 매트리스 추천</a>
-<a href="https://pet.informationhot.kr/posts/20260725-프로플랜/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 프로플랜 추천</a>
+<a href="https://appliance.informationhot.kr/posts/rouny-air-purifier-misemeonji-jegeo-mich-peulle-omaegseu-10pyeonghyeong-air-purifier-recommend/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 공기청정기 추천</a>
+<a href="https://fitness.informationhot.kr/posts/단백질-보충제-추천-뉴욕웨이-라이트-vs-비에스엔-신타-6-프로틴/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 프로틴 추천</a>
+<a href="https://interior.informationhot.kr/posts/latex-mattress-recommend-heunhan-ohae-3gaji-2026-gijun-balojabgi/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 라텍스 매트리스 추천</a>
+<a href="https://pet.informationhot.kr/posts/peulopeullaen-dogcat-recommend-4jong-compare-bunseog/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 프로플랜 추천</a>
 </div>
 </div>
 

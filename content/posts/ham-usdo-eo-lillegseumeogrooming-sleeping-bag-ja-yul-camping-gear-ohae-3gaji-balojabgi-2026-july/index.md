@@ -18,8 +18,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/20260723-식기세척기/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">🔌 식기세척기 추천</a>
-<a href="https://fitness.informationhot.kr/posts/20260723-스마트밴드-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">💪 스마트밴드 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/minigseu-mini-dishwasher-vs-samsung-bespoke-ai-bilteu-in-dishwasher-recommend/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">🔌 식기세척기 추천</a>
+<a href="https://fitness.informationhot.kr/posts/seumateuband-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">💪 스마트밴드 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -136,10 +136,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://appliance.informationhot.kr/posts/20260723-식기세척기/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 식기세척기 추천</a>
-<a href="https://fitness.informationhot.kr/posts/20260723-스마트밴드-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 스마트밴드 추천</a>
-<a href="https://interior.informationhot.kr/posts/20260723-킹-침대-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 킹 침대 추천</a>
-<a href="https://pet.informationhot.kr/posts/20260723-고양이두부모/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 고양이두부모 추천</a>
+<a href="https://appliance.informationhot.kr/posts/minigseu-mini-dishwasher-vs-samsung-bespoke-ai-bilteu-in-dishwasher-recommend/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 식기세척기 추천</a>
+<a href="https://fitness.informationhot.kr/posts/seumateuband-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 스마트밴드 추천</a>
+<a href="https://interior.informationhot.kr/posts/king-bed-recommend-me-ikingmk300le-idigagu-paebeulig-poham-sanghwangbyeol-5seon/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 킹 침대 추천</a>
+<a href="https://pet.informationhot.kr/posts/catdubumo-recommend-15mm-geugsesa-ibja-wa-deoseutaendadeu-2mm-23man-wondae-passing-grade-top5/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 고양이두부모 추천</a>
 </div>
 </div>
 

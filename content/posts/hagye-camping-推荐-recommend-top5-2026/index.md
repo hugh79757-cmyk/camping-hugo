@@ -18,8 +18,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/20260725-무선청소기-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">🔌 무선청소기 추천</a>
-<a href="https://fitness.informationhot.kr/posts/20260725-무릎-보호대-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">💪 무릎 보호대 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/ma-idi-eo-jadong-meonjibi-um-cordless-vacuum-recommend-mich-compare/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">🔌 무선청소기 추천</a>
+<a href="https://fitness.informationhot.kr/posts/hyeogseonsaengse-ipeubon-muleup-bohodae-recommend-silje-sseobon-salam-i-goleun-top5/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">💪 무릎 보호대 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -127,10 +127,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
-<a href="https://appliance.informationhot.kr/posts/20260725-무선청소기-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 무선청소기 추천</a>
-<a href="https://fitness.informationhot.kr/posts/20260725-무릎-보호대-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 무릎 보호대 추천</a>
-<a href="https://interior.informationhot.kr/posts/20260725-하이브리드-매트리스-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 하이브리드 매트리스 추천</a>
-<a href="https://pet.informationhot.kr/posts/20260725-고양이밥그릇/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 고양이밥그릇 추천</a>
+<a href="https://appliance.informationhot.kr/posts/ma-idi-eo-jadong-meonjibi-um-cordless-vacuum-recommend-mich-compare/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 무선청소기 추천</a>
+<a href="https://fitness.informationhot.kr/posts/hyeogseonsaengse-ipeubon-muleup-bohodae-recommend-silje-sseobon-salam-i-goleun-top5/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 무릎 보호대 추천</a>
+<a href="https://interior.informationhot.kr/posts/ha-ibeulideu-mattress-recommend-heoli-e-joh-eun-ha-ibeulideu-vs-la-ipeumeonteu-be-ijig-ha-ibeulideu/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 하이브리드 매트리스 추천</a>
+<a href="https://pet.informationhot.kr/posts/catbabgeuleus-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 고양이밥그릇 추천</a>
 </div>
 </div>
 
