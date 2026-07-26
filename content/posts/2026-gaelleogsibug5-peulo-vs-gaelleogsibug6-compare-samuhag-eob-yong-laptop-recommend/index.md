@@ -1,0 +1,114 @@
+---
+title: "2026 갤럭시북5 프로 vs 갤럭시북6 비교 사무학업용 노트북 추천"
+slug: "2026-gaelleogsibug5-peulo-vs-gaelleogsibug6-compare-samuhag-eob-yong-laptop-recommend"
+date: "2026-06-26T10:14:24+09:00"
+draft: "false"
+description: "2026년 6월 기준, 새 노트북을 알아보는 분들은 비슷한 고민을 반복할 겁니다. 학업이나 업무를 위해 고성능 모델을 눈여겨보면"
+tags: []
+categories: []
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/06/26/04e747e6.webp"
+
+
+---
+
+<div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
+<p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
+<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/대성쎌틱듀플렉스-1등급-제습기-추천-19l20l-실속-선택-가이드-2026년-7월/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">🔌 1등급 제습기 추천</a>
+<a href="https://fitness.informationhot.kr/posts/스쿼트-보조-기구-추천-별의-바다-고탄력-vs-tani-일체형-스쿼트랙/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#0891b2;font-weight:600;font-size:14px;margin-right:12px">💪 스쿼트 보조 기구 추천</a>
+</div>
+</div>
+
+
+
+2026년 6월 기준, 새 노트북을 알아보는 분들은 비슷한 고민을 반복할 겁니다. 학업이나 업무를 위해 고성능 모델을 눈여겨보면 예산이 부담되고, 가격을 줄이자니 성능이 아쉬울 것 같고. 특히나 브랜드 내에서 최신 모델과 스펙 차이를 비교하는 건 생각보다 복잡한 과정입니다.
+
+## 갤럭시북 고를 때 확인할 포인트
+
+갤럭시북 시리즈를 선택할 때 가장 먼저 확인해야 할 것은 <strong>프로세서 성능</strong>입니다. 제공된 모델 중에는 인텔 울트라7, 울트라5, 그리고 RTX5060이 포함된 펜서레이크 등이 있어 사용 목적에 따라 체감 성능 차이가 큽니다. 문서 작업과 웹 서핑에는 최신 울트라5나 그 이상의 CPU면 충분하며, 영상 편집이나 간단한 3D 작업이 예상된다면 울트라7이나 별도 GPU가 탑재된 모델을 고려해야 합니다.
+
+다음으로 <strong>메모리(RAM)와 저장 용량(SSD)</strong> 입니다. 현재 16GB RAM은 기본적인 멀티태스킹의 기준선으로, 동시에 여러 브라우저 탭과 오피스 프로그램을 띄워도 쾌적합니다. 32GB RAM은 포토샵, 프리미어 프로 등 메모리를 많이 사용하는 프로그램을 자주 쓰는 사용자에게 권장되며, 저장 용량은 512GB면 문서와 일반 프로그램은 넉넉하지만 대용량 파일을 다루기에는 1TB 이상이 안정적입니다.
+
+<strong>화면 크기와 해상도</strong>는 휴대성과 작업 공간의 균형을 결정합니다. 16인치 모델은 넓은 작업 공간을 제공해 프레젠테이션 제작이나 문서 비교 작업에 유리하지만, 가방 안에서의 무게 부담이 따릅니다. 14인치 모델은 하루 종일 강의실과 도서관을 오가는 학생이나 출퇴근이 잦은 직장인에게 훨씬 효율적입니다. 또한, 일부 모델에 적용된 WQXGA+(2560x1600) 해상도와 터치 디스플레이는 선명한 화질과 직관적인 조작감을 동시에 제공합니다.
+
+## 한눈에 보는 비교표
+
+| 제품 | 가격 | CPU | RAM/SSD | 화면 | 배송 |
+|---|---|---|---|---|---|
+| 갤럭시북5 프로 (NT960XHZ) | 3,099,000원 | 인텔 울트라7 | 32GB / 1TB | 16인치 WQXGA+ 터치 | 무료배송 |
+| 갤럭시북5 프로 (NT960XHA) | 2,549,000원 | 인텔 울트라7 | 16GB / 512GB | 16인치 WQXGA+ 터치 | 무료배송 |
+| 갤럭시북6 (NT740VJT) | 3,000,000원 | 인텔 울트라5 | 16GB / 512GB | 14인치 | 무료배송 |
+| 갤럭시북6 울트라 (NT960UJH) | 5,489,000원 | 인텔 울트라7 + RTX5060 | 32GB / 2TB | 16인치 WQXGA+ 터치 | 무료배송 |
+| 갤럭시북Go (NT345XPA) | 498,000원 | (상품명 미상) | (상품명 미상) | 14인치 | 무료배송 |
+
+![삼성 갤럭시북5 프로 NT960XHZ](https://ads-partners.coupang.com/image1/ItafkCjHPG6Cub3fIlJPsMePMqxC_o-5bxZOKDhxFXTT16UPngiQP-Jk1BNPrVbHfERaiJ5d33fYSKf3hYGE9QpcA3WgPFCVSo3dQaDXq2LyoBGfuhp_iU-jKUDAYtM897W-AIV7xicnxjkVoTkU9gMkgLOZCJ3bLV78t0qrCfHYmsbKryIpzQyQErvp-z3BZHA3JuJtV1pRAQ3Y2MkCRr_3HmAHtr632LFX11Kl3PesACxrXBYVXA08VrcsD430roxByWqdf2UpTRj_c0_Q7RVArIztZnQGn7XgLgMnvDYJekrwtcLbibti)
+
+### 1위: 갤럭시북5 프로 — 메모리와 저장공간의 최강자
+32GB RAM과 1TB SSD를 탑재한 이 모델은 스펙 면에서 제공된 제품 중 가장 강력합니다. 16인치 WQXGA+ 터치 디스플레이는 선명한 색감을 자랑하며, 인텔 울트라7 프로세서는 복잡한 프로그램도 무리 없이 구동합니다. 3,099,000원의 가격은 부담스러울 수 있지만, 32GB RAM은 수십 개의 브라우저 탭과 대용량 엑셀 파일을 동시에 처리할 때 끊김 없는 경험을 보장하고, 1TB SSD는 수업 자료와 프로젝트 파일을 넉넉하게 담아둘 수 있습니다.
+
+이 제품은 논문 작성과 실험 데이터 분석을 병행하는 대학원생이나, 여러 건의 디자인 시안을 비교 검토하는 기획자에게 딱 맞습니다. 하루 종일 카페에서 작업하더라도 넓은 화면으로 여러 창을 띄워놓고 효율적으로 일할 수 있습니다. 다만, 300만 원을 훌쩍 넘는 가격은 학생들에게는 쉽게 결정하기 어려운 부분입니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8586146651&itemId=24891543234&vendorItemId=91898171251&traceid=V0-153-4321f63c217feb1d&clickBeacon=d98f4ef0-710c-11f1-9125-6c9cf0fe9c67%7E3&requestid=20260626121222858123342689&token=31850C%7CMIXED)
+
+![삼성전자 갤럭시북5 프로 NT960XHA](https://ads-partners.coupang.com/image1/Yx5wogKWVWYNgc4PY0MxtvIWW6N9klRNJP36DUSDVzgYgcYRMvjmvQ_qWhcDzq6rTyzQUgZijozryjBayDkSEYyFeE3RM0mBpoREWIdTKKH5nLgpqxy67eCIyviVV02KeUl5FuQKH0LesRbdgkfPPB6_JbhVNYnm81z8NMPYHzI5C1M2EwKQZ__YIFkP6QWLs1PMf_bZ4FSdUchRghLLFJ_AsPILEMCq8OI0P-0CeW50-dOyjk7e1a16R_QfWADcg2pxAuvvbGslcpglJvl_Z8n1KGpL-DtvtVCZl0sTAna_rRSMizOkj9mQ3A==)
+
+### 2위: 갤럭시북5 프로 — 합리적인 가격의 올라운더
+이전 모델보다 RAM(16GB)과 SSD(512GB)가 줄었지만, 핵심인 인텔 울트라7 프로세서와 16인치 WQXGA+ 터치 스크린은 동일하게 유지합니다. 가격은 2,549,000원으로, 32GB 모델 대비 55만 원 정도 저렴해져 가성비가 높아졌습니다. 16GB RAM은 문서 작업, 웹 서핑, 유튜브 감상 등 일상적인 사용에는 전혀 부족함이 없는 수준입니다.
+
+이 제품은 퇴근 후 유튜브를 시청하면서 간단한 포토샵 작업을 하거나, 주말에 취미로 블로그를 운영하는 직장인에게 적합합니다. 강의 녹화본을 보면서 필기하는 대학생에게도 부담 없는 가격대에서 만족스러운 성능을 제공합니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8524610232&itemId=26812147539&vendorItemId=94112243244&traceid=V0-153-59873d5649e2e5c4&clickBeacon=d98f4ef0-710c-11f1-b197-c2531575e6d3%7E3&requestid=20260626121222858123342689&token=31850C%7CMIXED)
+
+![삼성전자 갤럭시북6 14인치](https://ads-partners.coupang.com/image1/Ti2sKaDHtklBYFygTlLE7xpJxst44Q9izffYvDt-xEpKTbeehe1aJkvXyouzsTEBE5RwUxI4XpRR2FNyv_5m86ktzlDSNbmscn5vEYFeBAKuZ3jClMkQVOPv9CElwqtLp7A0AZu0Xgrmyt4Jva7FbaWY7atrw8slynrXEyvPpImGU7Gj_n9GaANHGzvJ_p6eFTufwuE23vjmTSUrOQMvy2gos0izhaQVRaO1ncagXogVuBBq6p71LcOxxP6mg3a4bnNe5yOAta_hIV4O7b5JrfJmWt-EZIEnXh15zc2x-1H3qgA_Kx-gnuc=)
+
+### 3위: 갤럭시북6 14인치 — 휴대성에 집중한 학생 사양
+14인치의 컴팩트한 크기가 가장 큰 특징입니다. 무게와 두께가 16인치 모델보다 확실히 가벼워져, 가방에 넣고 하루 종일 휴대하기에 편안합니다. 인텔 울트라5 프로세서와 16GB RAM, 512GB SSD는 수업용 PPT 만들기, 문서 작성, 웹 리서치 등 학생의 기본적인 컴퓨팅 니즈를 충족합니다. 3,000,000원의 가격은 16인치 울트라7 모델보다는 부담이 적습니다.
+
+매일 강의실과 도서관, 학회 모임 장소를 전전하는 캠퍼스 라이프를 보내는 학생에게 이동성을 극대화한 선택지입니다. 무거운 노트북 때문에 어깨가 아픈 일은 줄어들 것입니다. 다만, 16인치 모델 대비 좁은 화면은 여러 창을 동시에 띄워놓고 작업할 때 약간의 불편함이 따를 수 있습니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9469022972&itemId=28182445584&vendorItemId=95137015299&traceid=V0-153-3ab64135eb049f62&clickBeacon=d98f4ef0-710c-11f1-b15c-f5d2201ea67c%7E3&requestid=20260626121222858123342689&token=31850C%7CMIXED)
+
+![삼성전자 갤럭시북6 울트라 RTX5060](https://ads-partners.coupang.com/image1/jHrSEyig78EQPfB2jGN3GF7iu0WXm1FT1MRm7gYIf9eyg0RbS-SYwC58vBst8pERyGQpwkZdWtPfGJrZSg5eevN0R3WWcxZloNO1iCqrCtqMgDi2mTpwe_gbLFouy42Ct1wcMZpTNZ5DfPOa4KRrT1MzxJgyNnyuXU3SFJqPeW5-tDVPgZPCJnqeNdpTq2Bpm99AJlntzvcxLMTjDh5ngMMnE-HSXEAD2oVsPwvF4C4F4S5y7GO22JEoXhssE6GcTIaZed29yg5j9lpyAgofo7xR0ShIUFbHqBTkbS5jsAExmkLso2ISccs)
+
+### 4위: 갤럭시북6 울트라 — 창작자를 위한 하이엔드 모델
+인텔 울트라7 프로세서에 NVIDIA RTX5060 그래픽카드, 그리고 32GB RAM과 2TB SSD까지 모든 면에서 최고 수준의 스펙을 갖췄습니다. 5,489,000원이라는 높은 가격은 그만큼 전문적인 성능을 담보합니다. WQXGA+ 터치 디스플레이는 색 정확도가 높아 디자인 작업에 적합하며, 강력한 GPU는 4K 영상 편집, 3D 모델링, 심지어 중간 수준의 게이밍까지 가능합니다.
+
+自媒体 채널을 운영하며 촬영, 편집, GFX 작업을 모두 직접 하는 프리랜서나, 건축 설계 프로그램을 다루는 디자인 전공자에게 이만한 모델은 드뭅니다. 데스크톱 PC 없이도 이동 중에 작업을 이어갈 수 있는 강력한 파워를 지녔지만, 그만큼 지갑이 두툼해야 합니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9339542914&itemId=27696774258&vendorItemId=94658532516&traceid=V0-153-a7b16c3a050c8e3f&clickBeacon=d98f4ef0-710c-11f1-9cb2-655b392abc99%7E3&requestid=20260626121222858123342689&token=31850C%7CMIXED)
+
+![삼성전자 갤럭시북Go](https://ads-partners.coupang.com/image1/JpeKOxbZ-ek3wfxoJgsGzkezPw7o4DGztWtaADCEOqY6bOX82VjVRDd-7Nc8qWmNwJVWa19AjVSQtXoG4yd_S4cGTlw5pmEO2wYIRPp-QIfGBTFUCPiWEvX14zllkWUUmgWfYqhbSaxw9iioKB6yY3-AZKcrW95aisb745_MTFrGvzCouUmqzJgS0xQiW_xKQB1qAWdsEqskT94tRdvJEU4G32NMBI5NX-WpzkXrBO5bIG7u6oPtbc1hS_IOxDUrgZjFilnK45hPK05OugifurjLzgNeyTl1hzNudqaAm6MZmgs1jeL-cziArvmopEbRW7OKBD4=)
+
+### 5위: 갤럭시북Go — 50만 원대 초저가 실속형
+가장 눈에 띄는 점은 498,000원이라는 파격적인 가격입니다. 14인치 휴대용 노트북으로, 상품명에 '가성비', '학생용', '문서작성'이 명시되어 있어 기본적인 용도에 충실합니다. 5G LTE 모뎀이 내장되어 있어 Wi-Fi 없이도 인터넷을 사용할 수 있다는 점은 이 가격대에서 상당한 장점입니다.
+
+예산이 50만 원 미만으로 철저히 제한되어 있거나, 단순히 워드 문서 작성과 인터넷 검색만을 위한 보조용 노트북이 필요한 경우에 유용합니다. 전문적인 성능은 기대하기 어렵지만, 그 가격에 14인치 화면과 LTE 연결성을 확보했다는 점에서 특정 용도로는 충분히 가치 있습니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8036829511&itemId=22489515360&vendorItemId=89531729651&traceid=V0-153-0adce3905cc2bf42&requestid=20260626121222858123342689&token=31850C%7CMIXED)
+
+## 자주 묻는 질문
+
+### 갤럭시북5 프로와 갤럭시북6의 주요 차이점은 무엇인가요?
+제공된 데이터상으로 갤럭시북5 프로는 16인치 모델 위주로 고성능(울트라7)과 터치 디스플레이를 강조하고, 갤럭시북6는 14인치 모델(울트라5)이 포함되어 휴대성과 가성비를 강조하는 라인업으로 보입니다. 다만, 갤럭시북6도 울트라7 및 RTX5060을 탑재한 고성능 모델이 있어 단순히 시리즈명만으로 성능을 단정하기는 어렵습니다. 반드시 개별 모델의 프로세서, 메모리, 디스플레이 사양을 비교해야 합니다.
+
+### 16GB와 32GB RAM, 어떤 상황에서 차이를 느끼나요?
+일상적인 웹 서핑, 문서 작업, 영상 감상에는 16GB로도 충분히 쾌적합니다. 하지만 동시에 30개 이상의 브라우저 탭을 열어놓고, 포토샵이나 프리미어 프로 같은 전문 프로그램을 병행 실행할 경우 32GB RAM은 시스템 느림 현상을 크게 줄여줍니다. 특히 4K 영상 편집이나 고해상도 이미지 파일을 다룰 때는 32GB RAM의 여유가 확실히 체감됩니다.
+
+### 터치 스크린이 있는 노트북, 실용적인가요?
+터치 기능은 터치 패드 없이 직관적으로 화면을 확대/축소하거나 스크롤할 때 유용하며, 특히 펜을 지원하는 모델이라면 필기나 스케치에 활용할 수 있습니다. 단점으로는 화면 지문이 잘 남고, 터치 디스플레이 탑재 모델은 일반 LCD 대비 조금 더 무거울 수 있습니다. 강의 중 필기가 잦은 학생이나 그래픽 작업을 하는 디자이너에게는 장점이 크지만, 온전히 키보드와 마우스에만 의존하는 사용자에게는 불필요한 비용이 될 수 있습니다.
+
+### RTX5060 그래픽카드가 필요한 사용자는 누구인가요?
+RTX5060은 노트북용 범용 그래픽카드 중 상위 모델로, 일반 사무용이나 학업용으로는 성능이 과잉입니다. 주로 4K 영상 편집, 3D 모델링, 게임 개발, 인공지능(AI) 모델 학습 등 그래픽 연산이 많이 필요한 작업을 할 때 제 성능을 발휘합니다. 만약 사용자가 포토샵이나 프리미어 프로를 전문적으로 다루거나, 중간 수준의 3D 게임을 노트북에서 즐기고 싶다면 고려할 만합니다. 그 외 일반적인 용도라면 비용 대비 효율이 떨어질 수 있습니다.
+
+### 갤럭시북Go는 어떤 사용자에게 적합한가요?
+498,000원이라는 매우 접근하기 쉬운 가격대와 14인치의 간결한 디자인이 특징입니다. 복잡한 프로그램을 설치해 사용하기보다는, 주로 워드 문서 작성, 인터넷 뉴스 확인, 이메일 관리, 온라인 강의 시청 등 매우 기초적인 컴퓨팅 활동만 수행하는 사용자에게 적합합니다. 부모님 세대의 첫 노트북이나, 학생의 보조용 PC, 혹은 중요한 자료를 백업해둘 여분의 기기로 생각하면 합리적인 선택이 될 수 있습니다.
+
+## 상황별 추천 정리
+
+- <strong>실험실과 강의실을 오가며 시뮬레이션 프로그램과 논문 작업을 동시에 처리하는 공학도라면</strong>: 32GB RAM과 1TB SSD로 멀티태스킹 성능이 뛰어난 <strong>갤럭시북5 프로(NT960XHZ)</strong> 를 추천합니다.
+- <strong>카페에서 주 3회 이상 원격근무를 하고, 주말에는 취미로 사진 보정을 하는 직장인이라면</strong>: 합리적인 가격에 울트라7 성능을 갖춘 <strong>갤럭시북5 프로(NT960XHA)</strong> 가 만족스러운 선택지가 될 것입니다.
+- <strong>매일 지하철을 타고 통학하며, 수업 중 노트 필기가 중요한 인문계열 학생이라면</strong>: 14인치의 가벼운 <strong>갤럭시북6(NT740VJT)</strong> 로 휴대성을 확보하는 것이 좋습니다.
+- <strong>유튜브 채널을 직접 운영하며 촬영부터 편집,特效 작업을 모두 담당하는 크리에이터라면</strong>: 강력한 RTX5060 그래픽과 32GB RAM이 탑재된 <strong>갤럭시북6 울트라(NT960UJH)</strong> 로 창작의 파이프라인을 완성하세요.
+- <strong>예산이 50만 원 미만이며, 가정에서 가끔 문서를 작성하거나 인터넷을 하는 용도만 필요하다면</strong>: LTE 연결성까지 갖춘 <strong>갤럭시북Go(NT345XPA)</strong> 를 최저가로 만나볼 수 있습니다.
+
+이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+
+
+<div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
+<p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
+<div style="display:flex;flex-wrap:wrap;gap:4px">
+<a href="https://appliance.informationhot.kr/posts/대성쎌틱듀플렉스-1등급-제습기-추천-19l20l-실속-선택-가이드-2026년-7월/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 1등급 제습기 추천</a>
+<a href="https://fitness.informationhot.kr/posts/스쿼트-보조-기구-추천-별의-바다-고탄력-vs-tani-일체형-스쿼트랙/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">💪 스쿼트 보조 기구 추천</a>
+<a href="https://interior.informationhot.kr/posts/2026년-7월-2층-침대-추천-일루일루-코지스칸디아-시몬-14만원대부터-73만원대까지-실속-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 2층 침대 추천</a>
+<a href="https://pet.informationhot.kr/posts/2026년-7월-옥희독희-위로열림-이동장과-반려동물-우주선-고양이-이동장-선택-가이드/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🐾 고양이이동장 추천</a>
+</div>
+</div>
